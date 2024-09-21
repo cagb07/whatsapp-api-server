@@ -26,8 +26,8 @@ const getHashed = (text) => {
 
 const users = [
     {
-        username: 'KtinBJ18VRGsJU9fUf5woEbr2IRykFbw/lf1Fg1GcVM=',
-        password: 'G906xRneIs5zNfwYmBXLXATbWzfbmLjLp6EOibUnW+8='
+        username: 'admin',
+        password: 'admin'
     }
 ];
 
